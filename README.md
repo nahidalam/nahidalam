@@ -36,10 +36,7 @@ More at [Google Scholar](https://scholar.google.com/citations?hl=en&user=11XdYBU
 
 ### 🌐 Connect
 - **LinkedIn:** [nahidalam](https://www.linkedin.com/in/nahidalam/)  
-- **Twitter / X:** [@nahidalam](https://twitter.com/nahidalam)  
-- **Email:** [your.email@domain.com](mailto:your.email@domain.com)  
+- **Twitter / X:** [@nahidalam](https://twitter.com/nahidalam)   
 
 ---
-
-> “Building world models that not only see but understand why things happen.”
 
