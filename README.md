@@ -1,4 +1,4 @@
-# 👋 Hi, this is Nahid. I am an independent researcher with Cohere Labs community, working on Multimodal Learning, Computer Vision and Embodied AI. 
+Hi, this is Nahid. I am an independent researcher with Cohere Labs community, working on Multimodal Learning, Computer Vision and Embodied AI. 
 
 I recently created [Maya](https://github.com/nahidalam/maya) – a multilingual multimodal LLM. I work at the intersection of **multimodal learning, computer vision and embodied ai**, developing models that perceive, reason, and act in the physical world.  
 My current interests include:
