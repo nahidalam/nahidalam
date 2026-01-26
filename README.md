@@ -10,12 +10,16 @@ My current interests include:
 
 ## Publications
 
+- **The Spatial Blindspot of Vision-Language Models.**
+Nahid Alam *et al.* pre-print
+[arXiv](https://arxiv.org/abs/2601.09954)
+
 - **Behind Maya: Building a Multilingual Vision-Language Model.**  
   Nahid Alam *et al.* CVPR 2025 Workshop (VLMs4All).  
   [arXiv](https://arxiv.org/abs/2505.08910) · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=11XdYBUAAAAJ&citation_for_view=11XdYBUAAAAJ:zYLM7Y9cAGgC)
 
 - **Understanding and Mitigating Toxicity in Image-Text Pretraining Datasets: A Case Study on LLaVA.**  
-  Nahid Alam, Karthik Reddy Kanjula, Surya Guthikonda, Shayekh Islam.  
+  Karthik Reddy Kanjula, Surya Guthikonda, Nahid Alam, Shayekh Islam.  
   CVPR 2025 Workshop (ReGenAI), **Oral**.  
   [arXiv](https://arxiv.org/abs/2505.06356) · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=11XdYBUAAAAJ&citation_for_view=11XdYBUAAAAJ:Y0pCki6q_DkC)
 
