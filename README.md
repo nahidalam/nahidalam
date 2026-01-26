@@ -2,17 +2,17 @@ Hi, this is Nahid. I am an independent researcher with Cohere Labs community, wo
 
 I recently created [Maya](https://github.com/nahidalam/maya) – a multilingual multimodal LLM. I work at the intersection of **multimodal learning, computer vision and embodied ai**, developing models that perceive, reason, and act in the physical world.  
 My current interests include:
-- **Spatial understanding in VLMs** for real-world perception  
+- **Spatial understanding in VLMs** 
 - **Physics-aware world models**  
 - **Multimodal Learning**  
-- **Simulation and Embodied AI** 
+- **Causal Learning** 
 
 
 ## Publications
 
 - **The Spatial Blindspot of Vision-Language Models.**
-Nahid Alam *et al.* pre-print
-[arXiv](https://arxiv.org/abs/2601.09954)
+  Nahid Alam *et al.* pre-print
+  [arXiv](https://arxiv.org/abs/2601.09954)
 
 - **Behind Maya: Building a Multilingual Vision-Language Model.**  
   Nahid Alam *et al.* CVPR 2025 Workshop (VLMs4All).  
