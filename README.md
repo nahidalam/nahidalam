@@ -10,6 +10,10 @@ My current interests include:
 
 ## Publications
 
+- **Causal Physics Steering in Video World Models via Concept Activation Vectors**  
+  Nahid Alam *et al.* In Proceeding of CVPR 2026 Workshop on Video World Model.  
+
+
 - **Spatial Reasoning is Not a Free Lunch: A Controlled Study on LLaVA**  
   Nahid Alam *et al.* ICLR 2026 Workshop (ICBINB).  
   [arXiv](https://arxiv.org/abs/2603.12545)
