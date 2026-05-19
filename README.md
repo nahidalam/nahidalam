@@ -1,6 +1,17 @@
-Hi, this is Nahid. I am an independent researcher with Cohere Labs community, working on Multimodal Learning, Computer Vision and Embodied AI. 
+- **RL Resident, Prime Intellect.** Building verifiable RL environments for physically grounded video generation.
 
-I recently created [Maya](https://github.com/nahidalam/maya) – a multilingual multimodal LLM. I work at the intersection of **multimodal learning, computer vision and embodied ai**, developing models that perceive, reason, and act in the physical world.  
+- **Created [Maya](https://github.com/nahidalam/maya).** Led an 18-person global team to build a multilingual multimodal foundation model, supported by GPU and API grants from Cohere Labs; resulted in CVPR 2025 workshop publications.
+
+- **Spatial understanding in VLMs.** Research supported by GPU grants from EleutherAI; ICLR 2026 Workshop paper.
+
+- **Staff AI Engineer, Cisco Meraki.** Built computer-vision models deployed across 500K+ security cameras.
+
+- **Winner — NVIDIA × Seeed Studio Hackathon.** 1st place for bimanual robot-arm manipulation by fine-tuning a Robot Foundation Model.
+
+- **Winner — Hugging Face Hackathon.** 1st place for an AI interior design app that transformed real rooms with generative models.
+
+- **Co-founded a startup in 2014** to build voice agents before Amazon Alexa.
+
 My current interests include:
 - **Spatial understanding in VLMs** 
 - **Physics-aware world models**  
