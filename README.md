@@ -1,6 +1,8 @@
+
+## tldr;
 - **RL Resident, Prime Intellect.** Building verifiable RL environments for physically grounded video generation.
 
-- **Created [Maya](https://github.com/nahidalam/maya).** Led an 18-person global team to build a multilingual multimodal foundation model, supported by GPU and API grants from Cohere Labs; resulted in CVPR 2025 workshop publications.
+- **Created [Maya](https://github.com/nahidalam/maya).** As an independent researcher, led an 18-person global team to build a multilingual multimodal foundation model, supported by GPU and API grants from Cohere Labs; resulted in CVPR 2025 workshop publications.
 
 - **Spatial understanding in VLMs.** Research supported by GPU grants from EleutherAI; ICLR 2026 Workshop paper.
 
