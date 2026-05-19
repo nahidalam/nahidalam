@@ -12,11 +12,6 @@
 
 - **Co-founded a startup in 2014** to build voice agents before Amazon Alexa.
 
-My current interests include:
-- **Spatial understanding in VLMs** 
-- **Physics-aware world models**  
-- **Multimodal Learning**  
-- **Causal Learning** 
 
 
 ## Publications
