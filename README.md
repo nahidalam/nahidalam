@@ -16,7 +16,7 @@
 
 
 
-## Publications
+## Publications · [Google Scholar](https://scholar.google.com/citations?hl=en&user=11XdYBUAAAAJ&view_op=list_works&sortby=pubdate)
 
 - **Causal Physics Steering in Video World Models via Concept Activation Vectors**  
   Nahid Alam. In Proceeding of CVPR 2026 Workshop on Video World Model.  
