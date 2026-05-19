@@ -43,8 +43,6 @@
   Jason Chuan-Chih Chou, Nahid Alam. ECCV 2024 Workshop (Beyond Euclidean).  
   [arXiv](https://arxiv.org/abs/2409.13079) · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=11XdYBUAAAAJ&citation_for_view=11XdYBUAAAAJ:UeHWp8X0CEIC)
 
-More at [Google Scholar](https://scholar.google.com/citations?hl=en&user=11XdYBUAAAAJ&view_op=list_works&sortby=pubdate)
-
 ---
 
 ### Recent Projects
