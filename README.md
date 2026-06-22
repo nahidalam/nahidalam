@@ -1,6 +1,6 @@
 
 ## tldr;
-- **RL Resident, Prime Intellect.** Building verifiable RL environments for physically grounded video generation.
+- **RL Resident, Prime Intellect.** Simulating the visual world
 
 - **Created [Maya](https://github.com/nahidalam/maya).** Independent Research, led an 18-person global team to build a multilingual multimodal foundation model, supported by grants from Cohere Labs; resulted in CVPR 2025 workshop publications.
 
@@ -8,11 +8,7 @@
 
 - **Staff AI Engineer, Cisco Meraki.** Built computer-vision models deployed across 500K+ security cameras.
 
-- **Winner — NVIDIA × Seeed Studio Hackathon.** 1st place for bimanual robot-arm manipulation by fine-tuning a Robot Foundation Model.
-
-- **Winner — Hugging Face Hackathon.** 1st place for an AI interior design app that transformed real rooms with generative models.
-
-- **Co-founded a startup in 2014** to build voice agents before Amazon Alexa.
+- **Co-founded litehouse in 2014** to build voice agents before Amazon Alexa.
 
 
 
@@ -20,7 +16,6 @@
 
 - **Causal Physics Steering in Video World Models via Concept Activation Vectors**  
   Nahid Alam. In Proceeding of CVPR 2026 Workshop on Video World Model.  
-
 
 - **Spatial Reasoning is Not a Free Lunch: A Controlled Study on LLaVA**  
   Nahid Alam *et al.* ICLR 2026 Workshop (ICBINB).  
@@ -45,10 +40,11 @@
 
 ---
 
-### Recent Projects
-- **[Maya](https://github.com/nahidalam/maya):** Multilingual multimodal foundation model (2 CVPR workshops)  
-- **[Gemma3n-VLA](https://github.com/nahidalam/lerobot/tree/gemma3vla):** Vision-Language-Action model built with Hugging Face LeRobot  
-- **[GR00T-N1 Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7309971614912167936/):** Bimanual robot manipulation with multimodal control  
+### Misc 
+- **Winner — NVIDIA × Seeed Studio Hackathon.** 1st place for bimanual robot-arm manipulation by fine-tuning a Robot Foundation Model.
+- **Winner — Hugging Face Hackathon.** 1st place for an AI interior design app that transformed real rooms with generative models.
+- **[Gemma3n-VLA](https://github.com/nahidalam/lerobot/tree/gemma3vla):** Vision-Language-Action model built with Hugging Face LeRobot
+  
 
 ---
 
