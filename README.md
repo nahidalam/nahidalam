@@ -8,7 +8,9 @@
 
 - **Staff AI Engineer, Cisco Meraki.** Built computer-vision models deployed across 500K+ security cameras.
 
-- **Co-founded litehouse in 2014** to build voice agents before Amazon Alexa.
+- **Menlo Venture Fellow, 2017** for full tuition fellowship on learning Deep Learning.
+
+- **Co-founded litehouse, 2014** to build voice agents before Amazon Alexa.
 
 
 
